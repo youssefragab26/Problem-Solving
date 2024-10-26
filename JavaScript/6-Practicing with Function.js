@@ -25,7 +25,7 @@ function letterFinder(word, match){
         }
  }
 }
-letterFinder('test' , 't')
+letterFinder('ragab sanaa' , 'a')
 
 // Your output should be the following:
 
