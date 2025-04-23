@@ -1,2 +1,0 @@
-Problem Solving in javascript
-
